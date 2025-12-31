@@ -86,15 +86,18 @@ Repository Structure
 ├── data/        # Dataset documentation  
 ├── notebooks/   # End-to-end ML pipeline  
 ├── results/     # Tables, figures, and evaluation summaries  
+├── requirements.txt  # Project requirements
 └── README.md    # Project overview
 
 
 ---
 
 
+```markdown
 ## Reproducibility
 All preprocessing, modelling, and evaluation steps are fully documented in:
-notebooks/seismic_ml_pipeline_git_clean.ipynb
+`notebooks/seismic_ml_pipeline_git_clean.ipynb`
+
 
 
 ---
