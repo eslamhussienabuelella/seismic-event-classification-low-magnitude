@@ -82,13 +82,13 @@ These findings align with known physical distinctions between natural and anthro
 
 ## Repository Structure
 Repository Structure
-```text
 ├── data/        # Dataset documentation
-├── notebooks/   # End-to-end ML pipeline
-├── results/     # Tables, figures, and evaluation summaries
-└── README.md    # Project overview
-```
 
+├── notebooks/   # End-to-end ML pipeline
+
+├── results/     # Tables, figures, and evaluation summaries
+
+└── README.md    # Project overview
 
 ---
 
